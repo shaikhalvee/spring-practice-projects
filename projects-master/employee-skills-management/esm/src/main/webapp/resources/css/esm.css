@@ -1,0 +1,27 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 5;
+	border-color: #ccc;
+}
+th {
+	background-color: #C3E1FF;
+}
+
+td {
+	padding: 10px;
+}
+.error {
+	color: red;
+	font-weight: normal;
+}
+
+div.success {
+	color: green;
+	font-weight: normal;
+}

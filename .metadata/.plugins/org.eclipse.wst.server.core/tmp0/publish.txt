@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Aug 03 16:01:37 BDT 2018
+org.eclipse.jst.jee.server\:spr-mvc-hib=D\:\\Program_File\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\spr-mvc-hib
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ShaikhIslam\\.m2\\repository\\org\\springframework\\spring-web\\3.2.2.RELEASE\\spring-web-3.2.2.RELEASE.jar=D\:\\Program_File\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\spr-mvc-hib\\WEB-INF\\lib\\spring-web-3.2.2.RELEASE.jar
