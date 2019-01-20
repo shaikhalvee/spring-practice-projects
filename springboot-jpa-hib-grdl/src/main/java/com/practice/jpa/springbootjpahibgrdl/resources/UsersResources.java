@@ -28,7 +28,6 @@ public class UsersResources {
 	@GetMapping("/all")
 	public @ResponseBody
 	List<Users> getAll() {
-
 		return usersRepository.findAll();
 	}
 
@@ -69,7 +68,6 @@ public class UsersResources {
 
 	@GetMapping("/id/{id}")
 	public Optional<Users> getId(@PathVariable("id") final Integer id) {
-
 		return usersRepository.findById(id);
 	}
 
