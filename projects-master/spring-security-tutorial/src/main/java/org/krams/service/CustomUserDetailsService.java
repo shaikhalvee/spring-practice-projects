@@ -51,9 +51,10 @@ public class CustomUserDetailsService implements UserDetailsService {
 	/**
 	 * Retrieves a collection of {@link GrantedAuthority} based on a numerical role
 	 * 
-	 * @param role
+	 * @param roles
 	 *            the numerical role
-	 * @return a collection of {@link GrantedAuthority
+	 * @return a collection of {@link GrantedAuthority
+
 	 */
 	public Collection<? extends GrantedAuthority> getAuthorities(Set<Role> roles) {
 		List<GrantedAuthority> authList = getGrantedAuthorities(getRoleNames(roles));
