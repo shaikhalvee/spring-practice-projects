@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-D:\Important_documents\my_codes\Spring_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2678739101.index
-\spr-mvc-hib\src\main\java
