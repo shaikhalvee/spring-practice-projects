@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71de746b-4693-4f21-9924-a76727d2a669" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringMVCHibernateManyToManyCRUDExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCHibernateManyToManyCRUDExample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringMVCHibernateManyToManyCRUDExample/SpringMVCHibernateManyToManyCRUDExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCHibernateManyToManyCRUDExample/SpringMVCHibernateManyToManyCRUDExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-security-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-tutorial.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-mvc-hibernate-mysql-integration-crud-example-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-mvc-hibernate-mysql-integration-crud-example-master/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -13,6 +16,23 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -23,11 +43,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="680" />
-    <option name="width" value="680" />
-    <option name="height" value="728" />
   </component>
   <component name="ProjectId" id="1culj8PeqL0GOc8KRtkDEdzqVY5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +57,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579720823965</updated>
       <workItem from="1579720825246" duration="1074000" />
-      <workItem from="1591386494556" duration="433000" />
+      <workItem from="1591386494556" duration="1712000" />
+      <workItem from="1591391637367" duration="609000" />
     </task>
     <servers />
   </component>
@@ -72,6 +89,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1591387181140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591387181140" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1591391766817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591391766817" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1591391768661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591391768661" />
+    <state x="376" y="76" key="git4idea.branch.GitSmartOperationDialog" timestamp="1591387159712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="76" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1591387159712" />
   </component>
   <component name="masterDetails">
     <states>
